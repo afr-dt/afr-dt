@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Alejandro Flores
 
+## 🇲🇽 Español
 
-**afr-dt/afr-dt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Soy un Ingeniero Backend con experiencia diseñando soluciones modernas y escalables en la nube. Trabajo principalmente con **Python**, **Node.js** y **Go (Golang)**, utilizando arquitecturas basadas en **microservicios**.
 
-Here are some ideas to get you started:
+☁️ Me especializo en **Google Cloud Platform**, donde he implementado servicios con **Docker**, **Kubernetes**, **BigQuery**, y **Cloud Storage**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🔧 Manejo herramientas de infraestructura como **Terraform** y flujos de trabajo automatizados con **CI/CD (GitHub Actions, Cloud Build)**.
 
+🛠️ Tecnologías que uso con frecuencia:
+- ⚙️ Docker & Kubernetes
+- 📦 Terraform
+- 🚀 CI/CD
+- 🔧 Flask FastAPI / Express.js
+- 🧪 Elasticsearch / BigQuery
+- 🐍 Python, 🟨 Node.js, 🦫 Go
+
+🎯 Certificado como **Associate Cloud Engineer** por Google Cloud.
+
+---
+
+## 🌎 English
+
+👨‍💻 I'm a Backend Engineer with experience designing scalable, cloud-native solutions. I work primarily with **Python**, **Node.js**, and **Go**, building **microservices** architectures.
+
+☁️ I'm specialized in **Google Cloud Platform**, where I’ve delivered services with **Docker**, **Kubernetes**, **BigQuery**, and **Cloud Storage**.
+
+🔧 I work with **Terraform** for infrastructure as code and implement automated workflows using **CI/CD** tools like GitHub Actions and Cloud Build.
+
+🛠️ Frequently used technologies:
+- ⚙️ Docker & Kubernetes
+- 📦 Terraform
+- 🚀 CI/CD
+- 🔧 Flask FastAPI / Express.js
+- 🧪 Elasticsearch / BigQuery
+- 🐍 Python, 🟨 Node.js, 🦫 Go
+
+🎯 Certified **Google Cloud Associate Cloud Engineer**
+
+---
+
+💬 ¿Te interesa colaborar o conectar? ¡Bienvenido a mi perfil!
