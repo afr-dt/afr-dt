@@ -26,7 +26,7 @@
 
 ☁️ I'm specialized in **Google Cloud Platform**, where I’ve delivered services with **Docker**, **Kubernetes**, **BigQuery**, and **Cloud Storage**.
 
-🔧 I work with **Terraform** for infrastructure as code and implement automated workflows using **CI/CD** tools like GitHub Actions and Cloud Build.
+🔧 I work with **Terraform** for infrastructure as code and implement automated workflows using **CI/CD**.
 
 🛠️ Frequently used technologies:
 - ⚙️ Docker & Kubernetes
