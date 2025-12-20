@@ -1,33 +1,22 @@
-# 👋 ¡Hola! Soy Alejandro Flores
-## 🇲🇽 Español
-👨‍💻 Soy un Ingeniero Backend.
+# 👋 Hey! I'm Alejandro Flores
 
-🛠️ Tecnologías que uso con frecuencia:
-- ⚙️ Docker & Kubernetes
-- 📦 Terraform
-- 🚀 CI/CD
-- 🔧 Flask FastAPI / Express.js
-- 🧪 Elasticsearch / BigQuery
-- 🐍 Python, 🟨 Node.js, 🦫 Go
+**Backend Engineer** 🇲🇽 | Building scalable systems with cloud-native technologies
 
-🎯 Certificado como **Associate Cloud Engineer** por Google Cloud.
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Associate%20Cloud%20Engineer-4285F4?logo=googlecloud&logoColor=white)](https://cloud.google.com/certification/cloud-engineer)
 
----
+## 🚀 Tech Stack
 
-## 🌎 English
+```yaml
+Cloud:         Google Cloud, AWS
+Infrastructure: Docker, Kubernetes, Terraform
+Backend:       Python, Node.js, Go, Java
+Data:          Elasticsearch, BigQuery
+DevOps:        CI/CD, Cloud Native Architecture
+```
 
-👨‍💻 I'm a Backend Engineer.
+## 📫 Let's Connect
 
-🛠️ Frequently used technologies:
-- ⚙️ Docker & Kubernetes
-- 📦 Terraform
-- 🚀 CI/CD
-- 🔧 Flask FastAPI / Express.js
-- 🧪 Elasticsearch / BigQuery
-- 🐍 Python, 🟨 Node.js, 🦫 Go
-
-🎯 Certified **Google Cloud Associate Cloud Engineer**
+Open to collaboration and interesting projects. Feel free to explore my repos!
 
 ---
-
-💬 ¿Te interesa colaborar o conectar? ¡Bienvenido a mi perfil!
+<sub>💡 Building reliable systems, one commit at a time</sub>
