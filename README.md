@@ -10,8 +10,8 @@
 Cloud:         Google Cloud, AWS
 Infrastructure: Docker, Kubernetes, Terraform
 Backend:       Python, Node.js, Go, Java
-Data:          Elasticsearch, BigQuery
-DevOps:        CI/CD, Cloud Native Architecture
+Data:          Elasticsearch, BigQuery, SQL
+DevOps:        GitHub Actions, GitLab CI, Cloud Build
 ```
 
 ## 📫 Let's Connect
